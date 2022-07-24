@@ -1,11 +1,11 @@
-Artificial Intelligence Group-33 Readme
+Artificial Intelligence
 
 Files Available-
 (i) AStar.py- It contains main python code.
 (ii) Examples- It contains all mazes
-(ii) Screenshots- It contains the screenshots of code inputs-outputs.
-(iii) venv
-(iv) PPT Slide- It contains presentation slides. 
+(iii) Screenshots- It contains the screenshots of code inputs-outputs.
+(iv) venv
+(v) PPT Slide- It contains presentation slides. 
 
 Procedure-
 i) Enter source x, y and destination x, y coordinates in each line.
